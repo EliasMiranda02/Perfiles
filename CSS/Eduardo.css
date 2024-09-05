@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.perfil-contenedor {
+    display: flex;
+    margin: 40px 0;
+}
+
+.perfil-item {
+    flex: 1;
+    padding: 20px;
+}
+
+.acerca-de-mi, .datos-personales {
+    text-align: left;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color:purple;
+    color: white;
+}
