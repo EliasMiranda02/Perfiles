@@ -2,7 +2,9 @@ h1 {
     text-align: center;
 }
 
-
+body{
+    background-color: red;
+}
 .row {
     display: flex; 
     justify-content: space-around; 
